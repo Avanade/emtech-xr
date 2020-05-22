@@ -97,4 +97,4 @@ Test non XR platforms against the same criteria (second life, mural, Minecraft, 
 | Productivity  | The amount of work an employee will complete.             | Dependent Variable   |
 
 # Original design thinking session
-![]./design-thinking-1.png)
+![](./design-thinking-1.png)
