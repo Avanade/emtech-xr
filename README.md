@@ -2,9 +2,16 @@
 
 ## XR for Business
 
-This project is a repository for Avanade's experimentation and research around XR for business. The proess follows Avanade's [emtech process](https://github.com/Avanade/emtech-process).
+This project contained Avanade's early experimentation and research around XR for business. The proess follows Avanade's [emtech process](https://github.com/Avanade/emtech-process) - the [emtech process](https://github.com/Avanade/emtech-process) repository contains a full list of our reseach projects and completed work.
 
-The first sprint of this project is investigation of XR software, and may not yield code. For more information on what this project is testing, the experiment, and data used, see the [project hypothesis](hypothesis.md).
+### Outputs
+- Tool Comparison - We reviewed 22 virtual reality tools, and produced an internally facing comparison of the best services to use. We recommend the use of Microsoft Mesh/AltSpaceVR, Spatial.io, or Mozilla Hubs.
+- Ethics Overview - We produced an ethical overview on the importance of considering employees.
+- Virtual Space - We recreated the Avanade London office in Virtual Reality using Unity and Blender. [A video of our work](https://www.youtube.com/watch?v=ilYaBASU5XQ&feature=youtu.be) is available on YouTube.
+- Procedural Generation - We created internal procedural generation tools which take objects in virtual reality, and adjust them to make them feel more real.
+- Workplace Platform - We created a re-usable workplace platform for Avanade and Accenture enabling us to connect the real world and the virtual world.
+
+Most of our outputs were internally facing, and one of our project retrospectives was an aim to contribute more to the community.
 
 # Sources, License and Attribution
 
